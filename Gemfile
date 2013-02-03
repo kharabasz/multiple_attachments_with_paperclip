@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.11'
+gem 'paperclip', '~> 3.0'
 gem 'sqlite3'
 
 # Gems used only for assets and not required
